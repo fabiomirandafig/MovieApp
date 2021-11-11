@@ -1,4 +1,5 @@
-# movieapp
+# MovieApp
+Aplicação NuxtJS que retorna uma coleção de filmes da API do TMDB (The Movie DataBase) e destaca os filmes que estão atualmente em cartaz nos cinemas.
 
 ## Build Setup
 
